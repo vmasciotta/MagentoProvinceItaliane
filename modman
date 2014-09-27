@@ -1,0 +1,5 @@
+#app
+app/code/community/Vmasciotta/Provinceitaliane              app/code/community/Vmasciotta/Provinceitaliane
+
+#modules
+app/etc/modules/Vmasciotta_Provinceitaliane.xml             app/etc/modules/Vmasciotta_Provinceitaliane.xml

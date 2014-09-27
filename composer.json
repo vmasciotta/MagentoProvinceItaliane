@@ -1,0 +1,18 @@
+{
+    "name": "vmasciotta/magento-provinceitaliane",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "http://github.com/vmasciotta/MagentoProvinceItaliane",
+    "description": "Modulo per l'installazione delle province italiane",
+    "authors": [
+        {
+            "name": "Valerio Masciotta",
+            "email": "sviluppo@valeriomasciotta.it",
+            "homepage": "http://www.valeriomasciotta.it",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
