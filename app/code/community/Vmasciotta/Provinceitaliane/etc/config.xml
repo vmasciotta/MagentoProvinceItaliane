@@ -7,12 +7,12 @@
     </modules>
     <global>
         <resources>
-            <provinceitaliane_setup>
+            <vmasciotta_provinceitaliane_setup>
                 <setup>
                     <module>Vmasciotta_Provinceitaliane</module>
                     <class>Mage_Core_Model_Resource_Setup</class>
                 </setup>
-            </provinceitaliane_setup>
+            </vmasciotta_provinceitaliane_setup>
         </resources>
     </global>
 </config>
